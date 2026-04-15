@@ -1,0 +1,20 @@
+# MATLAB temporary files
+*.asv
+
+# MATLAB figures
+*.fig
+
+# Data files (optional, avoid large files)
+*.mat
+*.csv
+
+# System files
+.DS_Store
+
+# OpenSim / other generated files
+*.sto
+*.trc
+*.mot
+
+# Folders to ignore (optional)
+OpenSim IK Results/
