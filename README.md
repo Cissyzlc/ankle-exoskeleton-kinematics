@@ -4,6 +4,7 @@ Motion capture and kinematic analysis for ankle exoskeleton anchor optimisation
 # Ankle Exoskeleton Kinematic Analysis
 
 This repository contains MATLAB code used for motion capture processing and kinematic analysis in an ankle exoskeleton project.
+Users should replace BASE_DIR with their local data path.
 
 ## Features
 
